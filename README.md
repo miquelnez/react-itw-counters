@@ -1,3 +1,20 @@
+# React Counter exercice
+
+There are 2 components in this application: Counter and App. The steps below will take you through modifying and adding components to change functionality and implementation:
+
+- Fork this project in github, and create a new branch to deliver all the changes.
+- Update the Counter component to take onIncrement and onDecrement callbacks and ensure they update the counter's values independently.
+- Use propTypes on the components.
+- Render a fourth Counter component and ensure it's value is updated independently from the others.
+- Create a Total component, which should be displayed after the Counter components and always display the running total of all the Counter values.
+- Be sure that the `npm run lint` works. Do all the required changes withouth modifyng the rules file
+
+
+**EXTRA**
+- Convert the data array to a json, and ask for it on the beggining of the App component. Be sure that your counters still working.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

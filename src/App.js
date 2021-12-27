@@ -20,6 +20,11 @@ function App() {
     { id: 3, value: 0 },
   ];
 
+  // extra task
+  // fetch('http://localhost:4000/counters')
+  //   .then((response) => response.json())
+  //   .then((responseData) => console.log(responseData));
+
   return (
     <div className="App">
       <header className="App-header">

@@ -1,8 +1,6 @@
 import './App.css';
 
 function App() {
-  const checkVar = "perro";
-  console.log(checkVar);
   return (
     <div className="App">
       <header className="App-header">
